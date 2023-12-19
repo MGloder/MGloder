@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MGloder
-- 👀 I’m interested in data engineering
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning ops
 - 💞️ I’m looking to collaborate on tool box
 - 📫 reach me via yanxuok@gmail.com
